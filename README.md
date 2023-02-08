@@ -67,90 +67,59 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet cursus ex. 
 <br>
 
 ## Running this project
-
-This is a sample for Django Project.
-To get this project up and running you should start by having Python installed on your computer. It's advised you create a virtual environment to store your projects dependencies separately. You can install virtualenv with
-
-```
-pip install virtualenv
-```
-
 Clone or download this repository and open it in your editor of choice. In a terminal (mac/linux) or windows terminal, run the following command in the base directory of this project
 
 ```
-virtualenv venv
+git clone
 ```
 
-That will create a new folder `env` in your project directory. Next activate it with this command on mac/linux:
+## Backend
+
+Then move to server directory
 
 ```
-source venv/bin/active
+cd server
 ```
+
 
 Then install the project dependencies with
 
 ```
-pip install -r requirements.txt
+npm install
 ```
 
-Apply migrations and create your database
-```
-python manage.py migrate
-```
-Create a user with manage.py
-```
-python manage.py createsuperuser
+Now you can run the backend with this command
+
+
+ ```
+npm start
 ```
 
-Now you can run the project with this command
+
+## Frontend
+
+Move to client directory
 
 ```
-python manage.py runserver
+cd client
+```
+
+
+Then install the project dependencies with
+
+```
+npm install
+```
+
+Now you can run the frontend with this command
+
+
+ ```
+npm  run dev
 ```
 
 <br>
 
-## Screenshots
 
-
-
-<table width="100%"> 
-<tr>
-
-<td width="50%">
-<p align="center">
-Light Mode
-</p>
-<img src="https://github.com/Jauharmuhammed/README-Template/blob/main/assets/light%20Mode.png">  
-</td>
-  <td width="50%">      
-<p align="center">
-Dark Mode
-</p>
-<img src="https://github.com/Jauharmuhammed/README-Template/blob/main/assets/dark-mode.png">
-</td> 
-</table>
-<br/>
-
-## Contact
-
-<div align='left'>
-
-<a href="https://linkedin.com/in/jauharmuhammed" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-	
-<a href="https://twitter.com/jauharmuhammed_" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-	
-<a href="mailto:jauharmuhammedk@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-	
-		
-<a href="https://codepen.io/jauharmuhammed" target="_blank">
-<img src="https://img.shields.io/badge/codepen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
 
 </div>
