@@ -33,14 +33,14 @@
 <img src="https://github.com/alfasareekkan/Carry-String/blob/main/client/Screenshot%20(176).png" width='70%' >
 </p>
 <br>
-<!-- 
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet cursus ex. Maecenas id lacus ut diam placerat lobortis ac quis nisl. Nulla mattis, sapien quis ultricies bibendum, quam erat gravida velit, eget auctor metus est et leo. Nam tristique vulputate ante at malesuada. Nulla egestas semper ante, et imperdiet elit posuere ut. Integer id nibh eu massa scelerisque aliquet vel vel lacus. Duis luctus dictum odio id dapibus. Suspendisse eu erat odio.. You can find the deployed project [here.](https://github.com/jauharmuhammed/README-Template)
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - In sit amet cursus ex.
 - Maecenas id lacus ut diam placerat lobortis ac quis nisl.
 -  Nam tristique vulputate ante at malesuada.
-- imperdiet elit posuere ut. -->
+- imperdiet elit posuere ut.
 
 <br>
 
