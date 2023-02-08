@@ -4,18 +4,6 @@
   </a>
 
   <h3 align="center">Carry String APP</h3>
-
-  <p align="center">
-    Short Discription of the Project
-    <br />
-    <a href="https://github.com/jauharmuhammed/README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <a href="https://github.com/jauharmuhammed/README-Template">View Site</a>
-    ·
-    <a href="https://github.com/jauharmuhammed/README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/jauharmuhammed/README-Template/issues">Request Feature</a>
-  </p>
 </div>
 
 
